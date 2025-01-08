@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
+  - `Object` u
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
+  - `BigInt` u
+  - `String` u
+  - `Symbol` u
+  - `Infinity` u
   - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
+  - `undefined` h
+  - `null` u
+  - `this` u
+  - `instanceof` h
+  - `...spread` h
+  - `...rest` h
+  - `typeof` h
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators u
   - Async generator
   - Async iterator
   - Chaining
@@ -29,15 +29,15 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters u
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
+  - Equality operators u
+  - Logical operators u
+  - Logical Assignment u
+  - Bitwise operators u
   - Ternary operator
-  - `void`
+  - `void` u
   - `yield`
   - `await`
   - Template literal
@@ -55,26 +55,26 @@
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Static class fields u
+  - Private class fields u
+  - Private class methods u
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` e
+  - `while` e
+  - `do..while` e
+  - `for` e
+  - `for..in` h
+  - `for..of` h
   - `for await`
   - `throw`
-  - `break`
-  - `continue`
-  - `import`
+  - `break` u
+  - `continue` u
+  - `import` u
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
+  - `switch` u
+  - `class` u
   - `extends`
   - `with`
   - `new`
@@ -88,14 +88,14 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` u
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array` e
+  - `Map` e
+  - `Set` e
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays
+  - Typed arrays e
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
@@ -116,7 +116,7 @@
 - Infrastructure
   - V8
   - Node.js
-  - npm
+  - npm u
   - prettier
   - MDN
   - TC39

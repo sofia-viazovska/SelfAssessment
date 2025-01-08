@@ -46,7 +46,7 @@
   - Network security (DDoS, XSS, CSRF prevention)
   - Serialization and deserialization (JSON, XML)
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit
+  - Unit testing with frameworks like xUnit, NUnit h
   - Integration testing
   - Logging and tracing
   - Application monitoring and telemetry
@@ -78,13 +78,13 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
+  - C# syntax and language fundamentals u
   - Advanced C# features (LINQ, async/await, delegates, events)
-  - Reflection and dynamic programming
-  - Data types and collections
+  - Reflection and dynamic programming u
+  - Data types and collections u
   - Generics and extension methods
   - Attributes and annotations
-  - Interoperability with other .NET languages
+  - Interoperability with other .NET languages h
 - `F#` Development
   - `F#` syntax and language fundamentals
   - Immutable data structures
@@ -103,10 +103,10 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
+  - C++ syntax and language fundamentals e
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
-  - `C++/CLI` syntax and usage
+  - `C++/CLI` syntax and usage e
   - Accessing .NET Framework classes in `C++`
   - Writing performance-critical modules
   - Interfacing with native libraries and APIs
@@ -120,9 +120,9 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity h
 - Web development
-  - ASP.NET Core
+  - ASP.NET Core h
   - Blazor
   - Razor Syntax
   - RESTful API development

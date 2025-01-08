@@ -135,8 +135,8 @@
   - NAPI `Rust`
   - NAPI `Zig`
   - Webassembly `WAT`
-  - Webassembly `C` and `C++`
-  - Webassembly `Rust`
+  - Webassembly `C` and `C++` 
+  - Webassembly `Rust` 
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
   - Shared memory
